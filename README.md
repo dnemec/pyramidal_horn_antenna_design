@@ -23,9 +23,9 @@ Banjeglav, G., & Malarić, K. (2015). 2.4 GHz horn antenna. Transactions on mari
 
 * **Feed width** - Diameter of a feed monopole conductor, usually in a milimeter range.  
 
-* **Feed offset** - Axial offset of a feed monopole.
-*Use the [**Waveguide2Coax script**](https://github.com/dnemec/waveguide_to_coax) to optimize this parameter.  
-
+* **Feed offset** - Axial offset of a feed monopole.  
+*Use the [**Waveguide2Coax script**](https://github.com/dnemec/waveguide_to_coax) to optimize this parameter.*  
+  
 * **Central frequency** - selfexplainable  
   
 ## Outputs
