@@ -31,7 +31,7 @@ Banjeglav, G., & Malarić, K. (2015). 2.4 GHz horn antenna. Transactions on mari
 ## Outputs
 
 ### Textual output of calculated parameters and resulting performance  
-![Output](https://raw.githubusercontent.com/dnemec/pyramidal_horn_antenna_design/main/Images/Output.PNG?raw=true)
+![Output](https://raw.githubusercontent.com/dnemec/pyramidal_horn_antenna_design/main/Images/Outputs.PNG?raw=true)
   
 ### VSWR
 ![VSWR](https://raw.githubusercontent.com/dnemec/pyramidal_horn_antenna_design/main/Images/VSWR.png?raw=true)
