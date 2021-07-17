@@ -1,13 +1,13 @@
 # Automated pyramidal horn antenna design.
 
 ## Description
-This is a script that automates the design of a pyramidal horn antenna.  
+This script automates the design of a pyramidal horn antenna.  
 Inputs can be derived from [Waveguide2Coax script](https://github.com/dnemec/waveguide_to_coax).  
 *ea* is by default 0.511.  
   
 ## Sources
 All calculations are derived from:  
-**Teshirogi, T., & Yoneyama, T. (2001). Modern millimeter-wave technologies. Ios Press
+**Teshirogi, T., & Yoneyama, T. (2001). Modern millimeter-wave technologies. Ios Press  
 Banjeglav, G., & Malarić, K. (2015). 2.4 GHz horn antenna. Transactions on maritime science, 4(01), 35-40.**  
   
 ## Inputs  
