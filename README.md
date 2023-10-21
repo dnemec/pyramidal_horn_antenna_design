@@ -2,6 +2,7 @@
 
 ## Description
 This script automates the design of a pyramidal horn antenna.  
+  
 The design is prooven in the "An Automated Approach to Horn Antenna Impedance Matching and Manufacturing Using 3D Printing" article published in the Journal of Communications Software and Systems (JCOMSS).  
 https://jcoms.fesb.unist.hr/10.24138/jcomss-2023-0100/ (DOI: 10.24138/jcomss-2023-0100)  
   
