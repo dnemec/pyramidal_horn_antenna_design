@@ -48,10 +48,10 @@ high efficiency,” IETE Journal of Research, vol. 64, no. 1, pp. 51–58,
 ## Outputs
 
 ### Textual output of calculated parameters and resulting performance  
-![Output](https://raw.githubusercontent.com/dnemec/pyramidal_horn_antenna_design/main/Images/Outputs.PNG?raw=true)
+![Output](https://github.com/dnemec/pyramidal_horn_antenna_design/blob/main/Images/outputs.PNG?raw=true)
   
 ### Return loss  
-![RL](https://raw.githubusercontent.com/dnemec/pyramidal_horn_antenna_design/main/Images/Returnloss.png?raw=true)
+![RL](https://github.com/dnemec/pyramidal_horn_antenna_design/blob/main/Images/returnloss.png?raw=true)
   
 ### Antenna visualization and radiation pattern  
-![WG](https://raw.githubusercontent.com/dnemec/pyramidal_horn_antenna_design/main/Images/Pattern.png?raw=true)
+![WG](https://github.com/dnemec/pyramidal_horn_antenna_design/blob/main/Images/pattern.png?raw=true)
