@@ -3,8 +3,8 @@
 ## Description
 This script automates the design of a pyramidal horn antenna.  
   
-The design is prooven in the "An Automated Approach to Horn Antenna Impedance Matching and Manufacturing Using 3D Printing" article published in the Journal of Communications Software and Systems (JCOMSS).  
-https://jcoms.fesb.unist.hr/10.24138/jcomss-2023-0100/ (DOI: 10.24138/jcomss-2023-0100)  
+The design is prooven in the ["An Automated Approach to Horn Antenna Impedance Matching and Manufacturing Using 3D Printing"](https://jcoms.fesb.unist.hr/10.24138/jcomss-2023-0100/) article published in the [Journal of Communications Software and Systems (JCOMSS)](https://jcoms.fesb.unist.hr/).  
+DOI: [10.24138/jcomss-2023-0100](https://doi.org/10.24138/jcomss-2023-0100)  
   
 Manufacturing is supported by the parametric Autodesk Fusion360 3D models published on Thingiverse.  
 https://www.thingiverse.com/thing:6272865  
@@ -29,6 +29,11 @@ Optimization technique is inspired by:
 Kumar, H. and Kumar, G., “Coaxial feed pyramidal horn antenna with
 high efficiency,” IETE Journal of Research, vol. 64, no. 1, pp. 51–58,
 2018.**  
+  
+## Flowchart
+Detailed explanation of the design and optimization process is presented in the [article](https://jcoms.fesb.unist.hr/pdfs/v19n3_2023-0100_Sablic_Nemec.pdf).  
+  
+![Flowchart](https://github.com/dnemec/pyramidal_horn_antenna_design/blob/main/Images/flowchart.png?raw=true)  
   
 ## Inputs  
   
