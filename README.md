@@ -12,6 +12,7 @@ https://www.thingiverse.com/thing:6272859
 
 Waveguide operates in the TE10 mode.
 *ea* is by default 0.511.  
+Flare length is approximated with $\lambda \over 3$
   
 ## Sources
 Calculations are mostly derived from: 
