@@ -22,10 +22,11 @@ Sons.
 Banjeglav, G., & Malarić, K. (2015). 2.4 GHz horn antenna. Transactions on maritime science, 4(01), 35-40.**  
 
 Optimization technique is inspired by:
-**Wade, P. (2006). Rectangular Waveguide to Coax Transition Design. W1GHZ.  
+
+**Wade, P. (2006). Rectangular Waveguide to Coax Transition Design. W1GHZ.    
 Kumar, H. and Kumar, G., “Coaxial feed pyramidal horn antenna with
 high efficiency,” IETE Journal of Research, vol. 64, no. 1, pp. 51–58,
-2018.  **
+2018.**  
   
 ## Inputs  
   
