@@ -11,7 +11,7 @@ https://www.thingiverse.com/thing:6272865
 https://www.thingiverse.com/thing:6272859
 
 Waveguide operates in the TE<sub>10</sub> mode.  
-*ea* is by default $0.511$.  
+*ea* (Aperture efficiency) is by default $0.511$.  
 Flare length is approximated with $\lambda \over 3$
   
 ## Sources
